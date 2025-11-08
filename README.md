@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a backend developer focused on building high-performance systems using Java and Spring Boot.<br>Currently studying Computer Engineering, I combine academic knowledge with real-world projects to develop clean, scalable, and production-ready code.<br><br>I value precision, deep understanding, and continuous improvement.<br>I’m currently working on e-commerce platforms and personal systems, using tools like MySQL, React, and IntelliJ IDEA.</p>
+<p align="left">I'm a backend developer focused on building high-performance systems using Java and Spring Boot.<br>Currently studying Computer Engineering, .<br><br>I value precision, deep understanding, and continuous improvement.<br>.</p>
 
 ###
 
