@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I work mainly with Java, Spring Boot, MySQL, and also explore frontend with React.<br>I'm constantly learning and improving through real-world projects and solid fundamentals.</p>
+<p align="left">I work mainly with Java, Spring Boot, MySQL, and also explore frontend with React.</p>
 
 ###
 
