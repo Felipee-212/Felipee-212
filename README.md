@@ -27,20 +27,22 @@ I work mainly with Java, Spring Boot, SQL and C#, and I use this GitHub to build
 
 <br clear="both">
 
-<div style="display:flex; align-items:center; gap:25px; margin: 10px 0 25px 0;">
-  <img 
-    align="left" 
-    height="141" 
-    style="margin-right:20px;" 
-    src="https://electronictradinghub.com/wp-content/uploads/2023/02/3eee0b_1010819bc98c465998ac26dfcd08779f_mv2.gif" 
-  />
+<table>
+  <tr>
+    <td style="padding-right:25px;">
+      <img 
+        height="141"
+        src="https://electronictradinghub.com/wp-content/uploads/2023/02/3eee0b_1010819bc98c465998ac26dfcd08779f_mv2.gif"
+      />
+    </td>
+    <td>
+      I’m also starting to explore quantitative finance and mathematical models.<br>
+      I’m a beginner, but I enjoy learning about how pricing, probability and data work behind real trading systems.<br>
+      It’s something I plan to study more seriously as I improve my programming foundations.
+    </td>
+  </tr>
+</table>
 
-  <p align="left" style="max-width:600px;">
-    I’m also starting to explore quantitative finance and mathematical models.<br>
-    I’m a beginner, but I enjoy learning about how pricing, probability and data work behind real trading systems.<br>
-    It’s something I plan to study more seriously as I improve my programming foundations.
-  </p>
-</div>
 
 ###
 
