@@ -4,16 +4,10 @@
 
 <h2 align="left">About Me</h2>
 
-###
-
-<h3 align="left">
-I’m studying Computer Engineering and focusing on backend development.  
+<p align="left">
+I’m studying Computer Engineering and focusing on backend development.<br>
 I work mainly with Java, Spring Boot, SQL and C#, and I use this GitHub to build small projects while I learn.
-</h3>
-
-###
-
-<br clear="both">
+</p>
 
 <div>
   <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=transparent&height=20&section=header&theme=cobalt" />
@@ -22,10 +16,6 @@ I work mainly with Java, Spring Boot, SQL and C#, and I use this GitHub to build
 ###
 
 <h2 align="left">Long-Term Technical Interests</h2>
-
-###
-
-<br clear="both">
 
 <table>
   <tr>
@@ -43,11 +33,6 @@ I work mainly with Java, Spring Boot, SQL and C#, and I use this GitHub to build
   </tr>
 </table>
 
-
-###
-
-<br clear="both">
-
 <div>
   <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=transparent&height=20&section=header&theme=cobalt" />
 </div>
@@ -55,12 +40,10 @@ I work mainly with Java, Spring Boot, SQL and C#, and I use this GitHub to build
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Felipee-212&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipee-212&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Felipee-212&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Felipee-212&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipee-212&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Felipee-212&layout=compact&langs_count=5&theme=dark&hide_border=false" height="150" />
 </div>
-
-###
 
 <div>
   <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=transparent&height=20&section=header&theme=cobalt" />
@@ -68,28 +51,30 @@ I work mainly with Java, Spring Boot, SQL and C#, and I use this GitHub to build
 
 ###
 
+<h2 align="center">Tech Stack</h2>
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="45" />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="45" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="45"/>
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Felipee-212&radius=16&theme=react&area=true&order=5&hide_border=false" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Felipee-212&radius=16&theme=react&area=true&hide_border=false" height="300" />
 </div>
 
 ###
